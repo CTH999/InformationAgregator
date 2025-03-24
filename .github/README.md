@@ -11,3 +11,5 @@ note: some of these links aren't needed yet (or are incomplete), so they have st
 4. ~~code of conduct~~
 5. ~~funding~~
 6. ~~security~~
+7. readme
+8. liscense
