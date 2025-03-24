@@ -15,8 +15,7 @@ currently being supported with security updates.
 
 For now, how to do it is simple. Just use this security button thing
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
+~~Use this section to tell people how to report a vulnerability.~~
+~~Tell them where to go, how often they can expect to get an update on a
 reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+declined, etc.~~
