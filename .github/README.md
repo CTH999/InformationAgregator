@@ -11,5 +11,5 @@ note: some of these links aren't needed yet (or are incomplete), so they have st
 4. ~~code of conduct~~
 5. ~~funding~~
 6. ~~security~~
-7. readme
+7. [readme](https://github.com/CTH999/InformationAgregator#informationagregator)
 8. [liscense](https://github.com/CTH999/InformationAgregator?tab=GPL-2.0-1-ov-file)
