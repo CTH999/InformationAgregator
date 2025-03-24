@@ -12,4 +12,4 @@ note: some of these links aren't needed yet (or are incomplete), so they have st
 5. ~~funding~~
 6. ~~security~~
 7. readme
-8. liscense
+8. [liscense](https://github.com/CTH999/InformationAgregator?tab=GPL-2.0-1-ov-file)
