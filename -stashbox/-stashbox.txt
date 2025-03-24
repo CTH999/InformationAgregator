@@ -1,0 +1,5 @@
+-stashbox is a folder designed to keep files from being removed when switching branches. Normally, if you have files that don’t exist in another branch, Git will remove them when you switch. By committing this folder in its exact state and adding it to .gitignore, the folder stays, but anything inside is ignored.
+
+Example: Let’s say you have a file you don’t want to commit but need to keep while switching branches. Instead of moving it to your desktop, you can place it in -stashbox. The file will stay there when you switch branches, but Git won’t track it.
+
+The name comes from Git’s built-in “stash” feature, though this works differently.
