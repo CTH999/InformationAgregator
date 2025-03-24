@@ -1,0 +1,4 @@
+this is a folder to just jot down some quick information.
+
+untill a better time is found, this folder also contains refference information, sucn as;
+	- links to detatched heads (information on what those are is here: https://superuser.com/questions/116153/rescuing-files-and-commits-from-no-branch-in-git )
