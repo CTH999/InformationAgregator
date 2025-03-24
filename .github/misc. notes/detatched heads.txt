@@ -1,0 +1,2 @@
+https://github.com/CTH999/InformationAgregator/commit/d27f2af2f909522d8e1a1e1cabf0c3eea204af30
+	this is from when I was going to use a "guidlines" branch to centralize the mergeing of the community health file. When that idea was scrapped, the branch was deleted, leaveing this commit detatched upon deletion of said branch
